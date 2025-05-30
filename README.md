@@ -63,6 +63,18 @@ This project investigates how student engagement data can be used to develop per
 
 ---
 
+## Data Sources & Citations
+
+1. Kuzilek, J., Hlosta, M., & Zdrahal, Z. (2017). Open University Learning Analytics Dataset (OULAD). *Scientific Data, 4*, 170171. https://analyse.kmi.open.ac.uk/open_dataset
+
+2. UCI Machine Learning Repository. Student Mental Health Dataset.  
+   Source: https://www.kaggle.com/datasets/rakeshrau/social-media-and-mental-health
+
+3. Cortez, P., & Silva, A. (2008). Using Data Mining to Predict Secondary School Student Performance.  
+   *University of Minho, Portugal*. https://archive.ics.uci.edu/ml/datasets/student+performance
+
+---
+
 ## Contact
 
 Carly Carroll  
