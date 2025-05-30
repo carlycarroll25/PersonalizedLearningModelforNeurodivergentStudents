@@ -7,19 +7,19 @@ This project investigates how student engagement data can be used to develop per
 ## Files Included
 
 ### Notebooks
-- `DataPreprocessing.ipynb` – Merges and cleans data from multiple sources
-- `ExploratoryDataAnalysis.ipynb` – Visualizes patterns, trends, and distributions
-- `Clustering.ipynb` – Uses KMeans to identify engagement profile groups
-- `CurriculumOptimization.ipynb` – Assigns tailored curriculum sequences
-- `Classification.ipynb` – Optional: Predicts engagement profile based on features
+- `DataPreprocessing.ipynb`: Merges and cleans data from multiple sources
+- `ExploratoryDataAnalysis.ipynb`: Visualizes patterns, trends, and distributions
+- `Clustering.ipynb`: Uses KMeans to identify engagement profile groups
+- `CurriculumOptimization.ipynb`: Assigns tailored curriculum sequences
+- `Classification.ipynb`: Predicts engagement profile based on features
 
 ### Data
-- `student_mat_por_clean.csv` – Cleaned academic performance dataset (merged)
-- `student_mental_health_clean.csv` – Cleaned mental health survey dataset
-- `assessments_clean.csv` – Cleaned assessments dataset (Open University)
-- `courses_clean.csv` – Cleaned courses metadata
-- `vle_clean.csv` – Cleaned Virtual Learning Environment interaction data
-- `engagement_profile_sample.csv` – Sample of final dataset (used for modeling)
+- `student_mat_por_clean.csv`: Cleaned academic performance dataset (merged)
+- `student_mental_health_clean.csv`: Cleaned mental health survey dataset
+- `assessments_clean.csv`: Cleaned assessments dataset (Open University)
+- `courses_clean.csv`: Cleaned courses metadata
+- `vle_clean.csv`: Cleaned Virtual Learning Environment interaction data
+- `engagement_profile_sample.csv`: Sample of final dataset (used for modeling)
 
 > 🔎 Note: The full cleaned dataset (`engagement_profile_clean.csv`) is not included due to GitHub size limits. A sample is provided.
 
@@ -34,9 +34,9 @@ This project investigates how student engagement data can be used to develop per
 ---
 
 ## Methods Used
-- KMeans Clustering (engagement profiles)
+- KMeans Clustering 
 - Rule-based Curriculum Mapping
-- Optional: Classification using Random Forest
+- Classification using Random Forest
 - Exploratory Data Visualizations
 
 ---
@@ -59,13 +59,7 @@ This project investigates how student engagement data can be used to develop per
    - `ExploratoryDataAnalysis.ipynb`
    - `Clustering.ipynb`
    - `CurriculumOptimization.ipynb`
-   - `Classification.ipynb` *(optional)*
-
----
-
-## 📈 Sample Visualizations
-
-(You can include saved figures here later, such as silhouette plots, cluster distributions, or curriculum flow diagrams.)
+   - `Classification.ipynb`
 
 ---
 
